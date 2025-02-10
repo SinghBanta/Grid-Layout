@@ -29,7 +29,7 @@ body{
 
 .news{
     background-color: peru;
-    grid-column:2/span 7 ;
+    grid-column:2/span 4 ;
     grid-row:1/span 2 ;
     border-radius: 12px;
     padding:10px;
@@ -45,7 +45,7 @@ body{
 
 .news2{
     background-color: skyblue;
-    grid-column: 4/span 5; 
+    grid-column: 4/span 2; 
     grid-row:3/span 8;
     border-radius: 12px;
     padding:10px;
@@ -53,14 +53,14 @@ body{
 
 .main{
     background-color: seagreen;
-    grid-column:9/span 12;
+    grid-column:6/span 12;
     grid-row:1/span 7;
     border-radius: 12px;
     padding:10px;
 }
 .ads{
     background-color: skyblue;
-    grid-column:9/span 12;
+    grid-column:6/span 12;
     grid-row:8/span 10;
     height:70%;
     border-radius: 12px;
@@ -70,7 +70,7 @@ body{
 
 .info{
     background-color: rgb(165, 99, 109);
-    grid-column:1/span 8;
+    grid-column:1/span 5;
     height:150px;
     border-radius: 12px;
     padding:10px;
